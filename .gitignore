@@ -1,1 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Model files
+*.pth
+*.pt
+
+# Output files
+outputs/
+results/
+
+# Dataset
+BASEPROD dataset directly from the Hugging face. 
