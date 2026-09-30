@@ -1,0 +1,12 @@
+finding,value
+dataset_id,hassanjbara/BASEPROD
+primary_split,train
+sampled_records,60
+available_splits,train
+detected_rgb_field,color
+detected_depth_field,depth
+detected_thermal_field,thermal
+detected_segmentation_field,not detected
+unique_image_shapes_in_sample,"(480, 640); (480, 640, 3); (480, 848); (480, 848, 3); (720, 1280, 3)"
+most_visually_different_sample_idx,24
+most_visually_different_score,2.593

@@ -1,0 +1,6 @@
+field,missing_samples,array_like_samples,finite_values,nan_values,positive_inf_values,negative_inf_values,min_finite_value,max_finite_value,constant_arrays,dtypes_seen,shapes_seen
+color,0,60,165888000,0,0,0,3.0,255.0,0,['uint8'],"['(720, 1280, 3)']"
+depth,1,59,72046080,0,0,0,0.0,255.0,0,['uint8'],"['(480, 848, 3)']"
+depth_16bit,1,59,24015360,0,0,0,0.0,65535.0,0,['uint16'],"['(480, 848)']"
+thermal,1,59,18124800,0,0,0,48.0,212.0,0,['uint8'],"['(480, 640)']"
+thermal_rgb,1,59,54374400,0,0,0,0.0,255.0,0,['uint8'],"['(480, 640, 3)']"
